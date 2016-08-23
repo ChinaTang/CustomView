@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorPrimary">
+    <!--<com.di.tang.myapplication.geometricview.PointView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />-->
+    <!--<com.di.tang.myapplication.geometricview.CircleView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>-->
+    <!--<com.di.tang.myapplication.geometricview.BezierCurves
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />-->
+    <!--<com.di.tang.myapplication.geometricview.FinguerView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/fingure_view"/>-->
+    <com.di.tang.myapplication.geometricview.DottedLineView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+</LinearLayout>
