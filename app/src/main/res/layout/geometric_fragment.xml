@@ -16,8 +16,12 @@
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:id="@+id/fingure_view"/>-->
-    <com.di.tang.myapplication.geometricview.DottedLineView
+    <!--<com.di.tang.myapplication.geometricview.DottedLineView
         android:layout_width="wrap_content"
-        android:layout_height="wrap_content" />
+        android:layout_height="wrap_content" />-->
+    <com.di.tang.myapplication.geometricview.AccordPlot
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/accord_plot"/>
 
 </LinearLayout>
